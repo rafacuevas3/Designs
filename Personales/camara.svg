@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Nuevo documento 1">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.22119779"
+     inkscape:cx="-19.274048"
+     inkscape:cy="595.14303"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showborder="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3868"
+       width="1166.377"
+       height="1265.8354"
+       x="-230.56288"
+       y="-267.72333"
+       rx="24.98238"
+       ry="24.98238" />
+    <g
+       id="g3855"
+       transform="translate(21.235488,0)">
+      <g
+         style="fill:#333333"
+         transform="translate(538.89929,-116.14207)"
+         id="g3784">
+        <rect
+           style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="rect3778"
+           width="150"
+           height="33.0881"
+           x="-464.94983"
+           y="466.23099"
+           rx="47.188942"
+           ry="0" />
+        <path
+           sodipodi:type="arc"
+           style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path3780"
+           sodipodi:cx="-394.86038"
+           sodipodi:cy="441.68179"
+           sodipodi:rx="70.089455"
+           sodipodi:ry="15.26701"
+           d="m -324.77093,441.68179 c 0,8.43174 -31.38012,15.26701 -70.08945,15.26701 -38.70934,0 -70.08946,-6.83527 -70.08946,-15.26701 0,-8.43173 31.38012,-15.26701 70.08946,-15.26701 38.70933,0 70.08945,6.83528 70.08945,15.26701 z"
+           transform="matrix(1.0700611,0,0,1,32.574904,24.226831)" />
+        <path
+           transform="matrix(1.0700611,0,0,1,32.574904,58)"
+           d="m -324.77093,441.68179 c 0,8.43174 -31.38012,15.26701 -70.08945,15.26701 -38.70934,0 -70.08946,-6.83527 -70.08946,-15.26701 0,-8.43173 31.38012,-15.26701 70.08946,-15.26701 38.70933,0 70.08945,6.83528 70.08945,15.26701 z"
+           sodipodi:ry="15.26701"
+           sodipodi:rx="70.089455"
+           sodipodi:cy="441.68179"
+           sodipodi:cx="-394.86038"
+           id="path3782"
+           style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           sodipodi:type="arc" />
+      </g>
+      <rect
+         rx="47.188942"
+         ry="47.188942"
+         y="405.59613"
+         x="9.7153702"
+         height="426.08835"
+         width="764.73846"
+         id="rect3776"
+         style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <rect
+         rx="47.188942"
+         ry="47.188942"
+         y="489.38165"
+         x="-64.294983"
+         height="385.83899"
+         width="274.80618"
+         id="rect3770"
+         style="fill:#4d4d4d;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         transform="matrix(1.0744735,0,0,1.0744735,-106.00043,-17.359139)"
+         d="m 614.84415,601.29144 c 0,83.55085 -67.73135,151.2822 -151.2822,151.2822 -83.55085,0 -151.2822,-67.73135 -151.2822,-151.2822 0,-83.55085 67.73135,-151.28219 151.2822,-151.28219 83.55085,0 151.2822,67.73134 151.2822,151.28219 z"
+         sodipodi:ry="151.2822"
+         sodipodi:rx="151.2822"
+         sodipodi:cy="601.29144"
+         sodipodi:cx="463.56195"
+         id="path3768"
+         style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3766"
+         sodipodi:cx="463.56195"
+         sodipodi:cy="601.29144"
+         sodipodi:rx="151.2822"
+         sodipodi:ry="151.2822"
+         d="m 614.84415,601.29144 c 0,83.55085 -67.73135,151.2822 -151.2822,151.2822 -83.55085,0 -151.2822,-67.73135 -151.2822,-151.2822 0,-83.55085 67.73135,-151.28219 151.2822,-151.28219 83.55085,0 151.2822,67.73134 151.2822,151.28219 z"
+         transform="matrix(0.85830722,0,0,0.85830722,-5.7939783,112.61978)" />
+      <path
+         transform="matrix(0.69300361,0,0,0.69300361,70.834484,212.01542)"
+         d="m 614.84415,601.29144 c 0,83.55085 -67.73135,151.2822 -151.2822,151.2822 -83.55085,0 -151.2822,-67.73135 -151.2822,-151.2822 0,-83.55085 67.73135,-151.28219 151.2822,-151.28219 83.55085,0 151.2822,67.73134 151.2822,151.28219 z"
+         sodipodi:ry="151.2822"
+         sodipodi:rx="151.2822"
+         sodipodi:cy="601.29144"
+         sodipodi:cx="463.56195"
+         id="path2996"
+         style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+      <rect
+         rx="0"
+         y="297.43869"
+         x="599.29309"
+         height="95.61116"
+         width="134.72482"
+         id="rect3795"
+         style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <rect
+         style="fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3797"
+         width="96.297676"
+         height="68.340286"
+         x="618.50665"
+         y="311.07413"
+         rx="0" />
+    </g>
+    <g
+       id="g3839"
+       transform="translate(-9.5901475,38.360608)"
+       style="fill:#ffffff;fill-opacity:1">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3807"
+         y="-113.43811"
+         x="106.87784"
+         style="font-size:143.95079040999999620px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Advent Pro;-inkscape-font-specification:Advent Pro"
+         xml:space="preserve"><tspan
+           y="-113.43811"
+           x="106.87784"
+           id="tspan3809"
+           sodipodi:role="line">Keep calm</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3811"
+         y="70.062469"
+         x="282.04568"
+         style="font-size:143.95079040999999620px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Advent Pro;-inkscape-font-specification:Advent Pro"
+         xml:space="preserve"><tspan
+           y="70.062469"
+           x="282.04568"
+           id="tspan3813"
+           sodipodi:role="line">and</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3815"
+         y="216.90991"
+         x="20.99991"
+         style="font-size:143.95079040999999620px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Advent Pro;-inkscape-font-specification:Advent Pro"
+         xml:space="preserve"><tspan
+           y="216.90991"
+           x="20.99991"
+           id="tspan3817"
+           sodipodi:role="line">take a picture</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Advent Pro;-inkscape-font-specification:Advent Pro"
+       x="-2710.8162"
+       y="652.77252"
+       id="text3823"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3825"
+         x="-2710.8162"
+         y="652.77252">KEPP</tspan></text>
+    <g
+       id="g3847"
+       transform="translate(-547.07686,-84.743911)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3827"
+         y="223.07999"
+         x="-781.43054"
+         style="font-size:143.14830017px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Advent Pro;-inkscape-font-specification:Advent Pro"
+         xml:space="preserve"><tspan
+           y="223.07999"
+           x="-781.43054"
+           id="tspan3829"
+           sodipodi:role="line">KEEP CALM</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3831"
+         y="412.65381"
+         x="-565.57831"
+         style="font-size:108.79319px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Advent Pro;-inkscape-font-specification:Advent Pro"
+         xml:space="preserve"><tspan
+           y="412.65381"
+           x="-565.57831"
+           id="tspan3833"
+           sodipodi:role="line">AND</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3835"
+         y="626.16736"
+         x="-906.14404"
+         style="font-size:143.14830017px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Advent Pro;-inkscape-font-specification:Advent Pro"
+         xml:space="preserve"><tspan
+           y="626.16736"
+           x="-906.14404"
+           id="tspan3837"
+           sodipodi:role="line">TAKE A PICTURE</tspan></text>
+    </g>
+  </g>
+</svg>
